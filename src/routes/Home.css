@@ -1,0 +1,11 @@
+.map {
+    min-height: 400px;
+}
+
+.path-tabs {
+    width: 100%;
+}
+
+.home > * {
+    min-width: 50vw;
+}

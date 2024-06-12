@@ -1,0 +1,9 @@
+.map {
+  height: 500px;
+  width: 100%;
+
+  @media (max-width: $mantine-breakpoint-xs) {
+    height: 300px;
+    width: 100%;
+  }
+}
