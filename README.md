@@ -1,5 +1,14 @@
 # Frontend Client Installation And Usage Guide
 
+## TL;DR
+
+[Also check out the project's backend](https://github.com/0xRyN/PathfindR-Backend)
+
+- [User Guide](User%20Guide.pdf)
+- [Developer Guide](Developer%20Guide.pdf)
+- [Backend UML Class Diagram](class_diagram.jpg)
+- [App Structure Diagram](front_back.jpg)
+
 ## Prerequisites
 
 Ensure you have NodeJS 20.12 (LTS) or newer installed on your system. Download NodeJS from [the official website](https://nodejs.org/).
